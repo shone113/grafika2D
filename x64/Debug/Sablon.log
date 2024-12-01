@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(271,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(293,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(359,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(361,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(369,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(396,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(561,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(642,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(648,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(673,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(681,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(720,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(743,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(746,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(845,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(850,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(863,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(864,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(865,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(965,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1078,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1086,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1094,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1178,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1179,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1363,44): warning C4305: '-=': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1366,44): warning C4305: '-=': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\nenad\Desktop\Text2\Sablon\main.cpp(1372,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> C:\Users\nenad\Desktop\Text2\Sablon\x64\Debug\Sablon.exe

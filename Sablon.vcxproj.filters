@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Shader Files">
+      <UniqueIdentifier>{a8b5ff39-85c7-4196-b461-819f918ebb58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="basic.frag">
+      <Filter>Source Files\Shader Files</Filter>
+    </None>
+    <None Include="basic.vert">
+      <Filter>Source Files\Shader Files</Filter>
+    </None>
+    <None Include="text.vert" />
+    <None Include="text.frag" />
+    <None Include="auth.frag" />
+    <None Include="auth.vert" />
+    <None Include="door.frag" />
+    <None Include="door.vert" />
+    <None Include="doorCover.frag" />
+    <None Include="doorCover.vert" />
+    <None Include="fish.frag" />
+    <None Include="fish.vert" />
+    <None Include="grass.frag" />
+    <None Include="grass.vert" />
+    <None Include="lake.frag" />
+    <None Include="lake.vert" />
+    <None Include="mid-pyramid.frag" />
+    <None Include="mid-pyramid.vert" />
+    <None Include="pyramid.frag" />
+    <None Include="pyramid.vert" />
+    <None Include="sand.frag" />
+    <None Include="sand.vert" />
+    <None Include="sky.frag" />
+    <None Include="sky.vert" />
+    <None Include="star.frag" />
+    <None Include="star.vert" />
+  </ItemGroup>
+</Project>
